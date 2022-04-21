@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathancaleb
-- 👀 I’m interested in python, javascript, html5, django, react native etc
+- 👀 I’m interested in python, javascript, flutter, django, react native, react-js etc
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on django development
+- 💞️ I’m looking to collaborate on MERN development
 - 📫 How to reach me .. jonathancaleb230@gmail.com
 
 <!---
