@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jonathancaleb
-- 👀 I’m interested in python, javascript, flutter, django, react native, react-js etc
+- 👀 I’m interested in python, flutter, Node.js[javascript], Angular, Php. 
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on MERN development
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me .. jonathancaleb230@gmail.com
 
 <!---
