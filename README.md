@@ -8,7 +8,7 @@ I almost exclusively use open source tools like [Linux](https://www.linux.org), 
 
 | Back-End 	| Front-End | Infrastructure | Principles | Basics | Database |
 | --- | --- | --- | --- | --- | --- |
-| - **PHP(Laravel) ⭐**<br>- **Javascript(Node.js) ⭐**<br>- Python 	| - **Angular.js ⭐**<br>- **Next.js<br>- Dart ⭐**<sup>1</sup>	| - **Vercel ⭐**<br> - GitHub · GitLab<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- Testing<sup>2</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Flutter	|- MongoDB<br>- MySQL · MariaDB | 
+| - **PHP(Laravel)⭐**<br>- **Javascript(Node.js)⭐**<br>- Python 	| - **Angular.js⭐**<br>- **Next.js<br>- Dart⭐**<sup>1</sup>	| - **Vercel⭐**<br> - GitHub-GitLab<br>- n8n 	| - **SOLID❤️**<br>- CI/CD<br>- Testing<sup>2</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Flutter	|- MongoDB<br>- MySQL · MariaDB | 
 
 
 - **CMS** → [KirbyCMS](https://getkirby.com/) ❤️ | [Wordpress](https://wordpress.org/)
