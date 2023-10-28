@@ -29,7 +29,7 @@ I almost exclusively use open source tools like [Linux](https://www.linux.org), 
 
 ## Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancaleb&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=jonathancaleb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Social
 - Email → [jonathancaleb230@gmail.com](mailto:jonathancaleb230@gmail.com) 📫
 - Portfolio → [caleb](https:///) 📁
