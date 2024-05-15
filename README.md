@@ -1,4 +1,4 @@
-# Hola 👀
+# Hey! 👀
 
 ### I'm a ``software developer`` based in Uganda (UG). I have been building for more than 2 years on back-end and front-end projects and I am now focusing on _three pillars_ that are important to me: ``performance``, ``ethics`` and ``ecology`` 🌱 
 
