@@ -2,9 +2,9 @@
 
 My name is Caleb and I'm a software developer from Kampala, Uganda. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-## &#x270d; Blog & Tutorials
+## &#x270d; Writing
 
-Apart from coding, I also maintain a dev.to page - you can find my articles on [Dev.to](https://dev.to/olayemii/). You can also watch tutorial videos I share on [Youtube](https://www.youtube.com/c/flutterpanda).
+Apart from coding, I also maintain a dev.to page - you can find my articles on [Dev.to](https://caleb-me.vercel.app).
 
 ## 🔧 Technologies & Tools
 
