@@ -1,40 +1,29 @@
-# Hey! 👀
+### Hello there, my name is Caleb 😊 I'm a self-taught developer and ML researcher 👋
 
-### I'm a ``software developer`` based in Uganda (UG). I have been building for more than 2 years on back-end and front-end projects and I am now focusing on _three pillars_ that are important to me: ``performance``, ``ethics`` and ``ecology`` 🌱 
+<!--
+**flawnson/flawnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Skills 👋
+Here are some ideas to get you started:
 
-I almost exclusively use open source tools like [Linux](https://www.linux.org), for energy-efficient OS, [VsCode](https://code.visualstudio.com/) and [Emacs](https://www.gnu.org/software/emacs/) for eco-friendly text editing, [Git](https://git-scm.com/) for version control, and versatile languages like (_python, javascript, php  etc._). Open-source databases like PostgreSQL and web servers reduce energy usage. Collaboration and monitoring tools such as Jitsi and Prometheus enhance eco-friendly practices, fostering sustainability in software development.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-| Back-End 	| Front-End | Infrastructure | Principles | Basics | Database |
-| --- | --- | --- | --- | --- | --- |
-| - **PHP(Laravel)⭐**<br>- **Javascript(Node.js)⭐**<br>- Python 	| - **Angular.js⭐**<br>- **Next.js<br>- Dart⭐**<sup>1</sup>	| - **Vercel⭐**<br> - GitHub-GitLab<br>- n8n 	| - **SOLID❤️**<br>- CI/CD<br>- Testing<sup>2</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Flutter	|- MongoDB<br>- MySQL · MariaDB | 
+![Profile views](https://caleb-me.vercel.app/)
 
+Thanks for finding yourself at my Github page! I treat Github like my second website and am constantly updating readmes and projects that I am currently invloved in. Also check out [my blog](https://caleb.github.io/) if you're curious to know what I've been dabbling in most recently besides code.
 
-- **CMS** → [KirbyCMS](https://getkirby.com/) ❤️ | [Wordpress](https://wordpress.org/)
-- **Misc. tools** → Firebase, OpenAi, Google, Stack Overflow
+- 🧬 Recently I've been exploring the vast realms of open-source software and artificial intelligence. I believe these fields offer endless possibilities and have the potential to 
+      revolutionize the way we interact with technology..
+- 🍵 I'd love to collaborate on any related projects or any compelling ideas that I can take up, or just chat and answer questions about stuff outside programming.
 
-<sup>1</sup> Technical side (on-site/remote)</br>
-<sup>2</sup> Currently learning - python
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancaleb)](https://github.com/jonathancaleb)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=jonathancaleb)](https://github.com/jonathancaleb)
 
-
-<details>
-    <summary><strong>Other tools I would like to try later 👀</strong></summary>
- 
-- [Directus (CMS)](https://directus.io/) - TypeScript + Vue.js
-- [11ty (SSG)](https://www.11ty.dev/)  - Golang
-- [Pandas (Data Analysis)](https://pandas.pydata.org/) - TypeScript
-- [Visual Editor by Boxraiser](https://boxraiser.github.io/visual-editor/) - TypeScript
-</details>
-
-## Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancaleb&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
-## Social
-- Email → [jonathancaleb230@gmail.com](mailto:jonathancaleb230@gmail.com) 📫
-- Portfolio → [caleb](https:///) 📁
-- LinkedIn → [jonathan caleb](https://www.linkedin.com/in/jonathan-caleb-94a6081a2/) 💼
-
-## Trivia
-
--   Driven by a more ecological and ethical use of technology 🌱
+Many thanks to [Naereen for these awesome Markdown badges](https://github.com/Naereen/badges)!
