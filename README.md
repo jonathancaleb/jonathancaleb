@@ -6,7 +6,7 @@ A Software Engineer who is Passionate about learning, building and solving probl
 
 I also love working with the developer communities on a global scale, building cool projects, writing technical articles, speaking at conferences.
 
-* 📝 To give back to the community I publish technical developer-focused content on Medium: (https://medium.com/@jonathancaleb230).
+* 📝 To give back to the community I publish technical developer-focused content on Medium: [blog](https://medium.com/@jonathancaleb230).
 
 
 * 🚀 **You can connect with me on:**
