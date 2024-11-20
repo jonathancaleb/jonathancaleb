@@ -11,7 +11,7 @@ I also love working with the developer communities on a global scale, building c
 
 * 🚀 **You can connect with me on:**
    - Twitter: [@Caleb](https://x.com/stray_dev)
-   - LinkedIn: [@jonathancaleb](www.linkedin.com/in/calebsabila)
+   - LinkedIn: [@jonathancaleb](https://www.linkedin.com/in/calebsabila/)
 
 
 🥂 Cheers!
