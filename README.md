@@ -1,19 +1,10 @@
 ## Hi there 👋
 
-### I'm Caleb Sabila 🤖
+### I'm Caleb 🤖
 
-A Software Engineer who is Passionate about learning, building and solving problems.
+Just a dev with too many side quests, too much coffee, and a soft spot for clean architecture.  
+On a slow but steady journey to Mordor — one bugfix at a time.
 
-I also love working with the developer communities on a global scale, building cool projects, writing technical articles, speaking at conferences.
-
-* 📝 To give back to the community I publish technical developer-focused content on Medium: [blog](https://medium.com/@jonathancaleb230).
-
-
-* 🚀 **You can connect with me on:**
-   - Twitter: [@Caleb](https://x.com/stray_dev)
-   - LinkedIn: [@jonathancaleb](https://www.linkedin.com/in/calebsabila/)
-
+I enjoy building things that solve real problems, learning as I go, and shipping code that doesn't scream in production.
 
 🥂 Cheers!
-
-<!--- [Profile views](https://gpvc.arturio.dev/DaveyHert) -->
